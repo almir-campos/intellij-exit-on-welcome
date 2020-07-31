@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.almir-campos.intellijexitonwelcome.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.almir-campos.intellijexitonwelcome.MyBundle
 
 class MyProjectService(project: Project) {
 
